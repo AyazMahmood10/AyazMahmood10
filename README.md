@@ -1,10 +1,12 @@
 <div align="center">
 
-[![Hello World, I'm Ayaz!](assets/banner.ong)](https://github.com/AyazMahmood10/)
+[![Hello World, I'm Ayaz!](assets/banner.png)](https://github.com/AyazMahmood10/)
 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ayaz-mahmood-10) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ayazmahmood0015@gmail.com?subject=Hello%20Ayaz,%20From%20Github)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_ayazmahmood_)
+
 
 </div>
 
