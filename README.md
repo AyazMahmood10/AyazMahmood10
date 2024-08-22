@@ -23,7 +23,7 @@
 
 ## 💻 My Tech Stack:
 
-[![React.js, JavaScript, Next.js, Node.js, TypeScript, docker, jenkins, tailwindcss, html, css](https://skillicons.dev/icons?i=react,js,next,nodejs,ts,docker,jenkins,tailwind,html,css)](https://skillicons.dev)
+[![React.js, JavaScript, Next.js, Node.js, TypeScript, Expressjs, MongoDB, Docker, Jenkins, Tailwindcss, Html, Css](https://skillicons.dev/icons?i=react,js,next,nodejs,ts,express,mongodb,docker,jenkins,tailwind,html,css)](https://skillicons.dev)
 
 
 
