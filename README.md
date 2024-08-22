@@ -34,4 +34,15 @@
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyazMahmood10&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
 
+
+## 🏸 Beyond Coding:
+
+<div style="background-color: #151515; padding: 20px; border-radius: 10px; color: #9f9f9f; font-style: italic; font-size:20px; font-family: 'Arial', sans-serif;">
+  <p style="text-align: center;">
+    <span style="color: #00ff00;">“</span> 
+        I am a passionate badminton player. After securing the top rank in my state 🥇 and winning the state championships three times in a row 🏆🏆🏆, I had the honor of competing at the national level. 🇮🇳
+    <span style="color: #00ff00;">”</span>
+  </p>
+</div>
+
 </div>
