@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Hello World, I'm Ayaz!](assets/banner.png)](https://github.com/AyazMahmood10/)
+[![Hello World, I'm Ayaz!](assets/github_banner.png)](https://github.com/AyazMahmood10/)
 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ayaz-mahmood-10) &nbsp;
