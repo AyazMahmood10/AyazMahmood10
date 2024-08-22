@@ -37,6 +37,6 @@
 
 ## 🏸 Beyond Coding:
 
-<img height=100 alt="Beyond Coding" src="/assets/beyond_coding.png" />
+<img alt="Beyond Coding" src="/assets/beyond_coding.png" />
 
 </div>
