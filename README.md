@@ -6,6 +6,7 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ayaz-mahmood-10) &nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:ayazmahmood0015@gmail.com?subject=Hello%20Ayaz,%20From%20Github)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/_ayazmahmood_)
+<p><img src="https://komarev.com/ghpvc/?username=AyazMahmood10" alt="ayazmahmood10" /></p>
 
 
 </div>
